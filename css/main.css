@@ -1,0 +1,248 @@
+button {
+  text-decoration: none;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: 13px;
+  margin-left: 8px;
+}
+
+.title1 {
+  font-size: 14px;
+  margin-left: -8px;
+}
+
+.title2 {
+  font-size: 15px;
+  margin-left: 120px;
+}
+
+.title22 {
+  font-size: 14px;
+  margin-left: 100px;
+}
+
+.title23 {
+  font-size: 13px;
+  margin-left: 48px;
+}
+
+.title3 {
+
+  margin-left: 24px;
+}
+
+.title32 {
+
+  font-size: 14px;
+  margin-left: 26%;
+}
+
+.title33 {
+  font-size: 14px;
+  margin-left: 25%;
+}
+
+.title34 {
+  font-size: 13px;
+  margin-left: 25%;
+}
+
+.title35 {
+  font-size: 13px;
+  margin-left: 25%;
+}
+
+.title36 {
+  font-size: 13px;
+  margin-left: 25%;
+}
+.bg {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 60%;
+  height: 60%;
+  margin-left: 950px;
+  margin-top: 450px;
+}
+.bg img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.navbar {
+ height: 53px;
+ z-index: 1;
+
+}
+
+body {
+  margin: 0px;
+}
+
+button {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  margin-right: 0px;
+  border-radius: 10px;
+}
+
+.greg {
+  position: absolute;
+  margin-left: 499px;
+  margin-bottom: 50px;
+}
+
+.twobuttons {
+  position: relative;
+  margin-top: -1px;
+  margin-left: 74px;
+  text-decoration: none;
+}
+
+.facebook {
+  position: relative;
+  margin-left: -26px;
+  margin-right: -26px;
+  font-size: 20px;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  padding: 25px;
+  text-decoration: none;
+
+
+
+}
+
+
+.linkedin {
+  position: relative;
+  margin-right: -5px;
+  font-size: 20px;
+  font-family: "Times New Roman";
+  font-weight: bold;
+  margin-top: 1px;
+  margin-left: 20px;
+  border-color: turquoise;
+  text-decoration: none;
+}
+
+.linkedinfont {
+  position: relative;
+  margin-left: -24px;
+}
+
+.goldquote {
+  position: relative;
+  margin-left: 454px;
+  color: #3B5998;
+  font-size: 15px;
+  padding: -10px;
+  font-family: "Tilliana", cursive;
+  font-weight: bolder;
+
+}
+.dropdown {
+  position: absolute;
+  margin-top: 15px;
+  margin-bottom: 0px;
+  border-bottom: 20px;
+  padding: 0px;
+}
+
+.navbar-brand {
+  color: green;
+  font-weight: bolder;
+  background-color: #2AE2FA;
+  border-style: hidden;
+  color: red;
+  font-family: "Cantarell", sans-serif;
+
+}
+
+.row {
+  text-align: center;
+  height: 500px;
+}
+
+.onerow {
+  background-color: red;
+  height: 200px;
+}
+
+.tworow {
+  background-color: transparent;
+  height: 500px;
+  width: 350px;
+}
+
+.panel {
+  width: 400px;
+  font-family: "Cantarell", sans-serif;
+
+}
+
+.panel-title {
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: none;
+}
+
+.panel-title:hover {
+ color: turquoise;
+}
+
+.hobbies {
+  font-weight: bold;
+  font-family: "Cantarell", sans-serif;
+}
+
+.carousel {
+  position: absolute;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: gray;
+  width: 350px;
+  height: 400px;
+  margin-left: 970px;
+  margin-top: -411px;
+}
+
+.carousel-caption {
+  font-weight: bold;
+}
+
+.gregory {
+  font-size: 15px;
+  text-shadow: 1px 2px black;
+}
+
+.gregpic {
+  margin-left: 24px;
+}
+
+.sanfran {
+  position: relative;
+  height: 400px;
+  margin-top: 80px;
+}
+
+.sfbaycap {
+  position: absolute;
+  height: 20px;
+  width: 300px;
+  margin-top: -140px;
+  margin-left: -148px;
+  font-size: 13px;
+  text-shadow: 1px 2px black;
+}
